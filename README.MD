@@ -4,8 +4,8 @@
 
 ## RESULTADO
 
-![imagem carregada](../5/imagens/carregada.png)
-![imagem carregando/blur background](../5/imagens/carregando.png)
+![imagem carregada](./imagens/carregada.png)
+![imagem carregando/blur background](./imagens/carregando.png)
 
  
 ## PROJETO 
