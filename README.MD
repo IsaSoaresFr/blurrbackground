@@ -1,5 +1,5 @@
 # BLUR BACKGROUND
- Aplicação desenvolvida para fins de estudos e conhecimentos, barra de pesquisa que expande ao ser clicada, otimizando o espaço na tela e oferecendo uma ideia diferente. 
+ Aplicação desenvolvida para fins de estudos e conhecimentos, blur background é perfeito para projetos em que a tela de carregamento não precise ser de cores neutras, sendo assim ao final do carregamento é apresentado uma imagem de fundo criativa. 
  
 
 ## RESULTADO
